@@ -1,1 +1,1 @@
-This repo contains the website for COMBED data set
+This repo contains the website for jupy-smartbuilding-amis data set

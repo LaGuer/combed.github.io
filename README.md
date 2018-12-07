@@ -15,4 +15,7 @@ This repo contains the website for jupy-smartbuilding-amis, the data set and the
 
 ## dataset download
 - [DataSet on Kaggle](https://www.kaggle.com/)
-- [Advanced Metering Infrastructure System DataSet](https://github.com/LaGuer/jupy-smartbuilding-amis/xxx.zip)
+- [Advanced Metering Infrastructure System DataSet](https://github.com/LaGuer/jupy-smartbuilding-amis/combed.zip)
+
+## zenodo
+- [![DOI](https://zenodo.org/badge/158837051.svg)](https://zenodo.org/badge/latestdoi/158837051)

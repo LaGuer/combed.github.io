@@ -4,6 +4,7 @@
 
 This repo contains the website for jupy-smartbuilding-amis, the data set and the Jupyter Notebook associated with it.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LaGuer/jupy-smartbuilding-amis/master?filepath=downloads)
 
 - This Github.com page: [https://github.com/LaGuer/jupy-smartbuilding-amis/issues](https://github.com/LaGuer/jupy-smartbuilding-amis/issues)
 

@@ -5,6 +5,8 @@ import os
 if len(sys.argv) > 1:
     folder = sys.argv[1]
 # we list all files in the specified folder
-files = os.listdir(folder)
+#files = os.listdir(folder)
+filenames = [os.path.join(dirname, fname) for fname in os.listdir(dirname)]
+
 # ids contains the sorted list of all unique idenfitiers
-ids = sorted(set(map(lambda file: int(file.split('.')[0]), files)))
+#ids = sorted(set(map(lambda file: int(file.split('.')[0]), files)))
